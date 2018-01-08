@@ -1,2 +1,3 @@
-# 341_Pacman_Multiagent
-Comp341 / Introduction to Artificial Intelligence
+# Multiagent Pacman
+
+The Implementation of multiagent from Berkeley AI Projects: http://ai.berkeley.edu/multiagent.html
